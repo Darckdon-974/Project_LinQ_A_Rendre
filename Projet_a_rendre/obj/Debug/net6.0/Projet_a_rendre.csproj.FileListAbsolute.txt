@@ -1,0 +1,17 @@
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Projet_a_rendre.exe
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Projet_a_rendre.deps.json
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Projet_a_rendre.runtimeconfig.json
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Projet_a_rendre.dll
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Projet_a_rendre.pdb
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.csproj.AssemblyReference.cache
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.AssemblyInfoInputs.cache
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.AssemblyInfo.cs
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.csproj.CoreCompileInputs.cache
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.csproj.CopyComplete
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.dll
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\refint\Projet_a_rendre.dll
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.pdb
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\Projet_a_rendre.genruntimeconfig.cache
+C:\Users\odoux\Documents\LinQ\Projet_a_rendre\Projet_a_rendre\obj\Debug\net6.0\ref\Projet_a_rendre.dll

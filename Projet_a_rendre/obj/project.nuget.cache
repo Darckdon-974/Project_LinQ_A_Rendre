@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUqC9zE8LLq3DMvp264C96FYu70kyw728S0t0e4kk6w2UDrqxeF16yICobqVA9H82YMyWcTCEfZwmZ9aNMfgGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\odoux\\Documents\\LinQ\\Projet_a_rendre\\Projet_a_rendre\\Projet_a_rendre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\odoux\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllVoitures>
+  <voiture Id="1">
+    <Marque>Audi</Marque>
+    <Modele>A4</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="2">
+    <Marque>BMW</Marque>
+    <Modele>X5</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="3">
+    <Marque>Mercedes-Benz</Marque>
+    <Modele>C-Class</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="4">
+    <Marque>Toyota</Marque>
+    <Modele>Camry</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="5">
+    <Marque>Ford</Marque>
+    <Modele>Mustang</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="6">
+    <Marque>Chevrolet</Marque>
+    <Modele>Camaro</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="7">
+    <Marque>Honda</Marque>
+    <Modele>Accord</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="8">
+    <Marque>Volkswagen</Marque>
+    <Modele>Golf</Modele>
+    <Year>2018</Year>
+  </voiture>
+  <voiture Id="9">
+    <Marque>Nissan</Marque>
+    <Modele>Altima</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="10">
+    <Marque>Hyundai</Marque>
+    <Modele>Elantra</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="11">
+    <Marque>Kia</Marque>
+    <Modele>Sorento</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="12">
+    <Marque>Subaru</Marque>
+    <Modele>Outback</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="13">
+    <Marque>Mazda</Marque>
+    <Modele>CX-5</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="14">
+    <Marque>Lexus</Marque>
+    <Modele>RX</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="15">
+    <Marque>Jeep</Marque>
+    <Modele>Grand Cherokee</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="16">
+    <Marque>Volvo</Marque>
+    <Modele>XC90</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="17">
+    <Marque>Tesla</Marque>
+    <Modele>Model 3</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="18">
+    <Marque>Porsche</Marque>
+    <Modele>911</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="19">
+    <Marque>Jaguar</Marque>
+    <Modele>F-Pace</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="20">
+    <Marque>Land Rover</Marque>
+    <Modele>Range Rover Evoque</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="21">
+    <Marque>Ferrari</Marque>
+    <Modele>488 GTB</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="22">
+    <Marque>Lamborghini</Marque>
+    <Modele>Aventador</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="23">
+    <Marque>Maserati</Marque>
+    <Modele>Quattroporte</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="24">
+    <Marque>Aston Martin</Marque>
+    <Modele>DB11</Modele>
+    <Year>2018</Year>
+  </voiture>
+  <voiture Id="25">
+    <Marque>McLaren</Marque>
+    <Modele>720S</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="26">
+    <Marque>Bugatti</Marque>
+    <Modele>Chiron</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="27">
+    <Marque>Rolls-Royce</Marque>
+    <Modele>Phantom</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="28">
+    <Marque>Bentley</Marque>
+    <Modele>Continental GT</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="29">
+    <Marque>Acura</Marque>
+    <Modele>MDX</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="30">
+    <Marque>Cadillac</Marque>
+    <Modele>Escalade</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="31">
+    <Marque>Infiniti</Marque>
+    <Modele>Q50</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="32">
+    <Marque>Alfa Romeo</Marque>
+    <Modele>Giulia</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="33">
+    <Marque>Lotus</Marque>
+    <Modele>Evora</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="34">
+    <Marque>Mini</Marque>
+    <Modele>Cooper</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="35">
+    <Marque>Peugeot</Marque>
+    <Modele>308</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="36">
+    <Marque>Renault</Marque>
+    <Modele>Clio</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="37">
+    <Marque>Citroën</Marque>
+    <Modele>C3</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="38">
+    <Marque>Volkswagen</Marque>
+    <Modele>Passat</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="39">
+    <Marque>Ford</Marque>
+    <Modele>Focus</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="40">
+    <Marque>Opel</Marque>
+    <Modele>Corsa</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="41">
+    <Marque>Mercedes-Benz</Marque>
+    <Modele>S-Class</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="42">
+    <Marque>BMW</Marque>
+    <Modele>3 Series</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="43">
+    <Marque>Audi</Marque>
+    <Modele>Q5</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="44">
+    <Marque>Toyota</Marque>
+    <Modele>RAV4</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="45">
+    <Marque>Honda</Marque>
+    <Modele>Civic</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="46">
+    <Marque>Nissan</Marque>
+    <Modele>Rogue</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="47">
+    <Marque>Hyundai</Marque>
+    <Modele>Tucson</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="48">
+    <Marque>Kia</Marque>
+    <Modele>Sportage</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="49">
+    <Marque>Subaru</Marque>
+    <Modele>Forester</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="50">
+    <Marque>Mazda</Marque>
+    <Modele>Mazda3</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="51">
+    <Marque>Lexus</Marque>
+    <Modele>NX</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="52">
+    <Marque>Jeep</Marque>
+    <Modele>Wrangler</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="53">
+    <Marque>Volvo</Marque>
+    <Modele>S60</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="54">
+    <Marque>Tesla</Marque>
+    <Modele>Model S</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="55">
+    <Marque>Porsche</Marque>
+    <Modele>Cayenne</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="56">
+    <Marque>Jaguar</Marque>
+    <Modele>F-Type</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="57">
+    <Marque>Land Rover</Marque>
+    <Modele>Discovery</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="58">
+    <Marque>Ferrari</Marque>
+    <Modele>F8 Tributo</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="59">
+    <Marque>Lamborghini</Marque>
+    <Modele>Huracan</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="60">
+    <Marque>Maserati</Marque>
+    <Modele>Ghibli</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="61">
+    <Marque>Aston Martin</Marque>
+    <Modele>Vantage</Modele>
+    <Year>2018</Year>
+  </voiture>
+  <voiture Id="62">
+    <Marque>McLaren</Marque>
+    <Modele>Artura</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="63">
+    <Marque>Bugatti</Marque>
+    <Modele>Veyron</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="64">
+    <Marque>Rolls-Royce</Marque>
+    <Modele>Cullinan</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="65">
+    <Marque>Bentley</Marque>
+    <Modele>Bentayga</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="66">
+    <Marque>Acura</Marque>
+    <Modele>TLX</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="67">
+    <Marque>Cadillac</Marque>
+    <Modele>CT5</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="68">
+    <Marque>Infiniti</Marque>
+    <Modele>QX60</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="69">
+    <Marque>Alfa Romeo</Marque>
+    <Modele>Stelvio</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="70">
+    <Marque>Lotus</Marque>
+    <Modele>Elise</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="71">
+    <Marque>Mini</Marque>
+    <Modele>Countryman</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="72">
+    <Marque>Peugeot</Marque>
+    <Modele>3008</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="73">
+    <Marque>Renault</Marque>
+    <Modele>Megane</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="74">
+    <Marque>Citroën</Marque>
+    <Modele>C4</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="75">
+    <Marque>Volkswagen</Marque>
+    <Modele>Tiguan</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="76">
+    <Marque>Ford</Marque>
+    <Modele>Kuga</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="77">
+    <Marque>Opel</Marque>
+    <Modele>Astra</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="78">
+    <Marque>Mercedes-Benz</Marque>
+    <Modele>GLC</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="79">
+    <Marque>BMW</Marque>
+    <Modele>X3</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="80">
+    <Marque>Audi</Marque>
+    <Modele>A6</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="81">
+    <Marque>Toyota</Marque>
+    <Modele>Corolla</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="82">
+    <Marque>Honda</Marque>
+    <Modele>Pilot</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="83">
+    <Marque>Nissan</Marque>
+    <Modele>Sentra</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="84">
+    <Marque>Hyundai</Marque>
+    <Modele>Santa Fe</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="85">
+    <Marque>Kia</Marque>
+    <Modele>Optima</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="86">
+    <Marque>Subaru</Marque>
+    <Modele>Impreza</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="87">
+    <Marque>Mazda</Marque>
+    <Modele>CX-9</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="88">
+    <Marque>Lexus</Marque>
+    <Modele>ES</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="89">
+    <Marque>Jeep</Marque>
+    <Modele>Compass</Modele>
+    <Year>2023</Year>
+  </voiture>
+  <voiture Id="90">
+    <Marque>Volvo</Marque>
+    <Modele>V60</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="91">
+    <Marque>Tesla</Marque>
+    <Modele>Model X</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="92">
+    <Marque>Porsche</Marque>
+    <Modele>Panamera</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="93">
+    <Marque>Jaguar</Marque>
+    <Modele>XJ</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="94">
+    <Marque>Land Rover</Marque>
+    <Modele>Defender</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="95">
+    <Marque>Ferrari</Marque>
+    <Modele>812 Superfast</Modele>
+    <Year>2019</Year>
+  </voiture>
+  <voiture Id="96">
+    <Marque>Lamborghini</Marque>
+    <Modele>Urus</Modele>
+    <Year>2022</Year>
+  </voiture>
+  <voiture Id="97">
+    <Marque>Maserati</Marque>
+    <Modele>Levante</Modele>
+    <Year>2021</Year>
+  </voiture>
+  <voiture Id="98">
+    <Marque>Aston Martin</Marque>
+    <Modele>Rapide</Modele>
+    <Year>2018</Year>
+  </voiture>
+  <voiture Id="99">
+    <Marque>McLaren</Marque>
+    <Modele>570S</Modele>
+    <Year>2020</Year>
+  </voiture>
+  <voiture Id="100">
+    <Marque>Bugatti</Marque>
+    <Modele>La Voiture Noire</Modele>
+    <Year>2019</Year>
+  </voiture>
+</AllVoitures>
